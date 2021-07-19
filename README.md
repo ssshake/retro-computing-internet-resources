@@ -33,6 +33,7 @@ Supplimentary information is available on the **[WIKI](https://github.com/ssshak
 - [CyberTown Reloaded](https://www.cybertown.nz/)
 - [Retro-Proxy](https://github.com/DrKylstein/retro-proxy)
 - [Classilla/Cryanc](https://github.com/classilla/cryanc)
+- [Netscape Proxy](https://github.com/ericmackrodt/netscape-proxy)
 
 
 
@@ -171,6 +172,9 @@ In the beloved hay day of VRML cybertown was an absolute wonder. It was an onlin
 
 ---
 
+### [Netscape Proxy](https://github.com/ericmackrodt/netscape-proxy)
+
+---
 
 
 
