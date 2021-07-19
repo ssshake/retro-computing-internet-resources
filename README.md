@@ -96,7 +96,7 @@ This is a CGA based DOS web browser which is currently in development, it's pret
 ### [DreamPi](https://segaretro.org/DreamPi)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/dreampi.jpg)](https://segaretro.org/DreamPi)
 
-If you have a SEGA Dreamcast and whish to play Phantasy Star Online again you can with this project! It turns a raspberry pi into a dial-up networking ISP. It lets you connect to other players over the internet through custom hosted game servers!
+If you have a SEGA Dreamcast and wish to play Phantasy Star Online again you can with this project! It turns a raspberry pi into a dial-up networking ISP. It lets you connect to other players over the internet through custom hosted game servers!
 
 ---
 
