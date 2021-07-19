@@ -29,7 +29,7 @@ If you have a project you would like added to the list please say so on the Disc
 
 
 
-# Project's Details
+# Project Details
 
 
 ### [TheOldNet.com](http://theoldnet.com)
