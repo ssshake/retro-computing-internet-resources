@@ -24,6 +24,7 @@ The goal is to compile a comprehensive list of all projects to get vintage compu
 - [Cameron's World](https://www.cameronsworld.net/)
 - [Telnet BBS Guide](http://www.telnetbbsguide.com/bbs/list/brief/)
 
+***
 
 # Project's Details
 
@@ -34,8 +35,12 @@ The goal is to compile a comprehensive list of all projects to get vintage compu
 #### [The Old Net - HTTP Proxy](http://theoldnet.com/docs/httpproxy/index.html)
 #### [The Old Net - BBS](http://theoldnet.com/bbs.html)
 
+---
+
 #### [Protoweb](https://protoweb.org/)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/protoweb.jpg)](https://protoweb.org/)
+
+___
 
 #### [Retrocampus BBS](http://bbs.retrocampus.com/)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/retrocampus.jpg)](http://bbs.retrocampus.com/)
