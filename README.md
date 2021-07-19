@@ -19,8 +19,6 @@ I am building supplimentary information on the **[WIKI](https://github.com/sssha
 - [68k.news](http://68k.news/)
 - [Frog Find](http://frogfind.com/)
 - [WRP (Web Rendering Proxy)](https://github.com/tenox7/wrp)
-- [Retro-Proxy](https://github.com/DrKylstein/retro-proxy)
-- [Classilla/Cryanc](https://github.com/classilla/cryanc)
 - [MicroWeb](https://github.com/jhhoward/MicroWeb)
 - [DreamPi](https://segaretro.org/DreamPi)
 - [Kali](https://www.kali.net/)
@@ -32,6 +30,8 @@ I am building supplimentary information on the **[WIKI](https://github.com/sssha
 - [Cameron's World](https://www.cameronsworld.net/)
 - [Telnet BBS Guide](http://www.telnetbbsguide.com/bbs/list/brief/)
 - [Doge Microsystems DIY Dialup Server](https://dogemicrosystems.ca/wiki/Dial_up_server)
+- [Retro-Proxy](https://github.com/DrKylstein/retro-proxy)
+- [Classilla/Cryanc](https://github.com/classilla/cryanc)
 
 
 
@@ -83,14 +83,6 @@ Frog Find is a great service which acts as a proxy to Duck Duck Go. It returns t
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/wrp.png)](https://github.com/tenox7/wrp)
 
 This is a very clever and cool service. It lets you browse the modern internet on vintage computers. This is generally impossible because most websites are partially/fully rendered using client side javascript. Old browsers cannot handle this. WRP pre-renders the webpages in a headless chrome instance and then returns a screenshot of the webpage as an image map to the vintage computer. Very neat way of working through the problem.
-
----
-
-### [Retro-Proxy](https://github.com/DrKylstein/retro-proxy)
-
----
-
-### [Classilla/Cryanc](https://github.com/classilla/cryanc)
 
 ---
 
@@ -155,5 +147,13 @@ It turns out the programmer for the original Netscape browser, Jamie Zawinski, a
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/telnetbbsguide.jpg)](http://www.telnetbbsguide.com/bbs/list/brief/)
 
 If you've got a wifi modem or just a telnet client, this is the go-to directory of all BBS's currently operating. 
+
+---
+
+### [Retro-Proxy](https://github.com/DrKylstein/retro-proxy)
+
+---
+
+### [Classilla/Cryanc](https://github.com/classilla/cryanc)
 
 ---
