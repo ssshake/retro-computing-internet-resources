@@ -29,93 +29,95 @@ The goal is to compile a comprehensive list of all projects to get vintage compu
 # Project's Details
 
 
-#### [TheOldNet.com](http://theoldnet.com)
+### [TheOldNet.com](http://theoldnet.com)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/theoldnet.jpg)](http://theoldnet.com)
 
-#### [The Old Net - HTTP Proxy](http://theoldnet.com/docs/httpproxy/index.html)
-#### [The Old Net - BBS](http://theoldnet.com/bbs.html)
+#### Additional Services:
+
+- [The Old Net - HTTP Proxy](http://theoldnet.com/docs/httpproxy/index.html)
+- [The Old Net - BBS](http://theoldnet.com/bbs.html)
 
 ---
 
-#### [Protoweb](https://protoweb.org/)
+### [Protoweb](https://protoweb.org/)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/protoweb.jpg)](https://protoweb.org/)
 
 ---
 
-#### [Retrocampus BBS](http://bbs.retrocampus.com/)
+### [Retrocampus BBS](http://bbs.retrocampus.com/)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/retrocampus.jpg)](http://bbs.retrocampus.com/)
 
 ---
 
-#### [68k.news](http://68k.news/)
+### [68k.news](http://68k.news/)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/68knews.jpg)](http://68k.news/)
 
 ---
 
-#### [Frog Find](http://frogfind.com/)
+### [Frog Find](http://frogfind.com/)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/frogfind.jpg)](http://frogfind.com/)
 
 ---
 
-#### [WRP (Web Rendering Proxy)](https://github.com/tenox7/wrp)
+### [WRP (Web Rendering Proxy)](https://github.com/tenox7/wrp)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/wrp.png)](https://github.com/tenox7/wrp)
 
 ---
 
-#### [Retro-Proxy](https://github.com/DrKylstein/retro-proxy)
+### [Retro-Proxy](https://github.com/DrKylstein/retro-proxy)
 
 ---
 
-#### [Classilla/Cryanc](https://github.com/classilla/cryanc)
+### [Classilla/Cryanc](https://github.com/classilla/cryanc)
 
 ---
 
-#### [MicroWeb](https://github.com/jhhoward/MicroWeb)
+### [MicroWeb](https://github.com/jhhoward/MicroWeb)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/microweb.png)](https://github.com/jhhoward/MicroWeb)
 
 ---
 
-#### [DreamPi](https://segaretro.org/DreamPi)
+### [DreamPi](https://segaretro.org/DreamPi)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/dreampi.jpg)](https://segaretro.org/DreamPi)
 
 ---
 
-#### [Kali](https://www.kali.net/)
+### [Kali](https://www.kali.net/)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/kali.jpg)](https://www.kali.net/)
 
 ---
 
-#### [WebOne](https://github.com/atauenis/webone)
+### [WebOne](https://github.com/atauenis/webone)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/webone.png)](https://github.com/atauenis/webone)
 
 ---
 
-#### [Brow.sh](https://www.brow.sh/)
+### [Brow.sh](https://www.brow.sh/)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/browsh.jpg)](https://www.brow.sh/)
 
 ---
 
-#### [Browservice](https://github.com/ttalvitie/browservice)
+### [Browservice](https://github.com/ttalvitie/browservice)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/browservice.png)](https://github.com/ttalvitie/browservice)
 
 ---
 
-#### [Timeprox](https://github.com/remino/timeprox)
+### [Timeprox](https://github.com/remino/timeprox)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/timeprox.png)](https://github.com/remino/timeprox)
 
 ---
 
-#### [JWZ's http10proxy](https://www.jwz.org/hacks/http10proxy.pl)
+### [JWZ's http10proxy](https://www.jwz.org/hacks/http10proxy.pl)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/http10proxy.jpg)](https://www.jwz.org/hacks/http10proxy.pl)
 
 ---
 
-#### [Cameron's World](https://www.cameronsworld.net/)
+### [Cameron's World](https://www.cameronsworld.net/)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/cameronsworld.jpg)](https://www.cameronsworld.net/)
 
 ---
 
-#### [Telnet BBS Guide](http://www.telnetbbsguide.com/bbs/list/brief/)
+### [Telnet BBS Guide](http://www.telnetbbsguide.com/bbs/list/brief/)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/telnetbbsguide.jpg)](http://www.telnetbbsguide.com/bbs/list/brief/)
 
 ---
