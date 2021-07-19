@@ -24,7 +24,8 @@ The goal is to compile a comprehensive list of all projects to get vintage compu
 - [Cameron's World](https://www.cameronsworld.net/)
 - [Telnet BBS Guide](http://www.telnetbbsguide.com/bbs/list/brief/)
 
-***
+
+
 
 # Project's Details
 
