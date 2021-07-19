@@ -2,6 +2,8 @@
 
 The goal is to compile a comprehensive list of all projects to get vintage computers connected to the internet!
 
+If you have a project you would like added to the list please say so on the Discussion page or submit a PR!
+
 
 - [TheOldNet.com](http://theoldnet.com)
 - [The Old Net - HTTP Proxy](http://theoldnet.com/docs/httpproxy/index.html)
