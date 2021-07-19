@@ -144,6 +144,8 @@ It turns out the programmer for the original Netscape browser, Jamie Zawinski, a
 
 "A love letter to the Internet of old". One of my favorite sites, I'm particularly impressed with the level of detail put into this project by carefully curating and placing gifs!
 
+Cameron's World will not work on vintage computers so it probably shouldn't be on this list. I just think it's so cool I want everyone to know about it!
+
 ---
 
 ### [Telnet BBS Guide](http://www.telnetbbsguide.com/bbs/list/brief/)
