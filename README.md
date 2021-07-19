@@ -10,7 +10,7 @@ The goal is to compile a comprehensive list of all projects to get vintage compu
 - [Retrocampus BBS](http://bbs.retrocampus.com/)
 - [68k.news](http://68k.news/)
 - [Frog Find](http://frogfind.com/)
-- [WEP (Web Rendering Proxy)](https://github.com/tenox7/wrp)
+- [WRP (Web Rendering Proxy)](https://github.com/tenox7/wrp)
 - [Retro-Proxy](https://github.com/DrKylstein/retro-proxy)
 - [Classilla/Cryanc](https://github.com/classilla/cryanc)
 - [MicroWeb](https://github.com/jhhoward/MicroWeb)
