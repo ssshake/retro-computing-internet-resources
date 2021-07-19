@@ -125,9 +125,13 @@ I am building supplimentary information on the **[WIKI](https://github.com/sssha
 ### [Cameron's World](https://www.cameronsworld.net/)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/cameronsworld.jpg)](https://www.cameronsworld.net/)
 
+"A love letter to the Internet of old". One of my favorite sites, I'm particularly impressed with the level of detail put into this project by carefully curating and placing gifs!
+
 ---
 
 ### [Telnet BBS Guide](http://www.telnetbbsguide.com/bbs/list/brief/)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/telnetbbsguide.jpg)](http://www.telnetbbsguide.com/bbs/list/brief/)
+
+If you've got a wifi modem or just a telnet client, this is the go-to directory of all BBS's currently operating. 
 
 ---
