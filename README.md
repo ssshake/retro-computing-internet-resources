@@ -54,7 +54,7 @@ Starting in 2019 I had the idea of being able to browse the 1990's web on a hand
 ### [Protoweb](https://protoweb.org/)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/protoweb.jpg)](https://protoweb.org/)
 
-This is an HTTP proxy that has its aim on high quality completeness of websites. The protoweb team scrapes the Internet Archive and other resources and reassembled the websites by hand as thoroughly as possible. You will not find every website on Protoweb, but they ones that you do find will be of the best archived version out there. 
+This is an HTTP proxy that has its aim on high quality completeness of websites. The protoweb team scrapes the Internet Archive and other resources and reassembled the websites by hand as thoroughly as possible. You will not find every website on Protoweb, but the ones that you do find will be of the best version out there. 
 
 ---
 
