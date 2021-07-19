@@ -95,6 +95,8 @@ I am building supplimentary information on the **[WIKI](https://github.com/sssha
 ### [Kali](https://www.kali.net/)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/kali.jpg)](https://www.kali.net/)
 
+Kali was a program used back in the windows 95 era to do local/IPX gaming over the internet. It's a game lobby client/server and a proxy. It's quite impressive and it's still in operation today! This service was important as games transitioned from local/dialup multiplayer to TCP/IP internet multiplayer. Many popular games at the time could not play head to head directly over the internet. This proxy allowed these games to connect over the internet, which was quite amazing. 
+
 ---
 
 ### [WebOne](https://github.com/atauenis/webone)
@@ -104,6 +106,8 @@ I am building supplimentary information on the **[WIKI](https://github.com/sssha
 
 ### [Brow.sh](https://www.brow.sh/)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/browsh.jpg)](https://www.brow.sh/)
+
+This is the most impressive service I've seen. A fluid, full graphics browser over SSH! You can even watch youtube videos in real time, in a pixelated fasion. Very neat.
 
 ---
 
@@ -119,6 +123,8 @@ I am building supplimentary information on the **[WIKI](https://github.com/sssha
 
 ### [JWZ's http10proxy](https://www.jwz.org/hacks/http10proxy.pl)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/http10proxy.jpg)](https://www.jwz.org/hacks/http10proxy.pl)
+
+It turns out the programmer for the original Netscape browser, Jamie Zawinski, also likes vintage computers. He wrote a proxy many years ago in PERL!
 
 ---
 
