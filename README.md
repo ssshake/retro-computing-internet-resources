@@ -4,7 +4,7 @@ The goal is to compile a comprehensive list of all projects to get vintage compu
 
 If you have a project you would like added to the list please say so on the **Discussion page** or submit a **PR**!
 
-I will also be building out supplimentary information on the [WIKI](https://github.com/ssshake/retro-computing-internet-resources/wiki)
+I will also be building out supplimentary information on the [WIKI](https://github.com/ssshake/retro-computing-internet-resources/wiki).
 
 # Links
 
