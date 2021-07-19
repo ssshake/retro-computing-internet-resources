@@ -22,4 +22,3 @@ The goal is to compile a comprehensive list of all projects to get vintage compu
 - [Browservice](https://github.com/ttalvitie/browservice)
 - [Timeproxy](https://github.com/remino/timeprox)
 - [JWZ's http10proxy](https://www.jwz.org/hacks/http10proxy.pl)
-- 
