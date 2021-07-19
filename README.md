@@ -161,4 +161,4 @@ If you've got a wifi modem or just a telnet client, this is the go-to directory 
 
 
 
-This list is maintained by: [Richard Bettridge](https://richardbettridge.com)
+This list is maintained by [Richard Bettridge](https://richardbettridge.com)
