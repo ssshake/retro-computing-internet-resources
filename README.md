@@ -82,7 +82,7 @@ Frog Find is a great service which acts as a proxy to Duck Duck Go. It returns t
 ### [WRP (Web Rendering Proxy)](https://github.com/tenox7/wrp)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/wrp.png)](https://github.com/tenox7/wrp)
 
-This is a very clever and cool service. It lets you browse the modern internet on vintage computers. This is generally impossible because most websites are partially/fully rendered using client side javascript. Old browsers cannot handle this. WRP pre-renders the webpages in a headless chrome instance and then returns a screenshot of the webpage as an image map to the vintage computer. Very neat way of working through the problem .
+This is a very clever and cool service. It lets you browse the modern internet on vintage computers. This is generally impossible because most websites are partially/fully rendered using client side javascript. Old browsers cannot handle this. WRP pre-renders the webpages in a headless chrome instance and then returns a screenshot of the webpage as an image map to the vintage computer. Very neat way of working through the problem.
 
 ---
 
