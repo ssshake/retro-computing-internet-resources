@@ -22,3 +22,4 @@ The goal is to compile a comprehensive list of all projects to get vintage compu
 - [Timeprox](https://github.com/remino/timeprox)
 - [JWZ's http10proxy](https://www.jwz.org/hacks/http10proxy.pl)
 - [Cameron's World](https://www.cameronsworld.net/)
+- [Telnet BBS Guide](http://www.telnetbbsguide.com/bbs/list/brief/)
