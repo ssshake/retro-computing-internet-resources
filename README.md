@@ -44,8 +44,10 @@ Supplimentary information is available on the **[WIKI](https://github.com/ssshak
 
 #### Additional Services:
 
-- [The Old Net - HTTP Proxy](http://theoldnet.com/docs/httpproxy/index.html)
-- [The Old Net - BBS](http://theoldnet.com/bbs.html)
+- [HTTP Proxy](http://theoldnet.com/docs/httpproxy/index.html)
+- [C64 BBS](http://theoldnet.com/bbs.html)
+- [Android App](https://play.google.com/store/apps/details?id=com.daggasoft.theoldnet&hl=en_US&gl=US)
+- [VRML Gallery](http://vrml.theoldnet.com/#/assets/places/theatre/vrml_1000818/theatre.wrl)
 
 Starting in 2019 I had the idea of being able to browse the 1990's web on a handful of of my 1990's computers. To my surprise the existing archives online were not compatible with vintage browsers even though the content was from that era. One weekend I wrote a proxy and everthing else grew from there. Two years later I've provided nearly a dozen free services to vintage computer enthusiasts around the world!
 
