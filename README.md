@@ -2,7 +2,7 @@
 
 ![](https://raw.githubusercontent.com/ssshake/retro-computing-internet-resources/main/screenshots/logo-small.png)
 
-The goal is to compile a comprehensive list of all projects which let vintage computers connected to the internet!
+The goal is to compile a comprehensive list of all projects which let vintage computers connect to the internet!
 
 If you have a project you would like added to the list please say so on the **[Discussion Page](https://github.com/ssshake/retro-computing-internet-resources/discussions)** or submit a **[PR](https://github.com/ssshake/retro-computing-internet-resources/pulls)**!
 
