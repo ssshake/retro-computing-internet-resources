@@ -30,9 +30,9 @@ Supplimentary information is available on the **[WIKI](https://github.com/ssshak
 - [Cameron's World](https://www.cameronsworld.net/)
 - [Telnet BBS Guide](http://www.telnetbbsguide.com/bbs/list/brief/)
 - [Doge Microsystems DIY Dialup Server](https://dogemicrosystems.ca/wiki/Dial_up_server)
+- [CyberTown Reloaded](https://www.cybertown.nz/)
 - [Retro-Proxy](https://github.com/DrKylstein/retro-proxy)
 - [Classilla/Cryanc](https://github.com/classilla/cryanc)
-- [CyberTown Reloaded](https://www.cybertown.nz/)
 
 
 
@@ -150,6 +150,14 @@ It turns out the programmer for the original Netscape browser, Jamie Zawinski, a
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/telnetbbsguide.jpg)](http://www.telnetbbsguide.com/bbs/list/brief/)
 
 If you've got a wifi modem or just a telnet client, this is the go-to directory of all BBS's currently operating. 
+
+---
+
+### [CyberTown Reloaded](https://www.cybertown.nz/)
+
+[![](https://raw.githubusercontent.com/ssshake/retro-computing-internet-resources/main/screenshots/cybertown.jpg)](https://www.cybertown.nz/)
+
+In the beloved hay day of VRML cybertown was an absolute wonder. It was an online community where you lived, socialized, worked, decorated your house, threw parties, went to the theatre! All in glorious 3D in your browser. There were different neighbourhoods based on different interested. It kind of felt a little like Geocities in that regard. This project is an attempt to rebuild Cybertown using archived resources found scoured across the internet. 
 
 ---
 
