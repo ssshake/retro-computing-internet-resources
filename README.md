@@ -52,25 +52,35 @@ I am building supplimentary information on the **[WIKI](https://github.com/sssha
 ### [Protoweb](https://protoweb.org/)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/protoweb.jpg)](https://protoweb.org/)
 
+This is an HTTP proxy that has its aim on high quality completeness of websites. The protoweb team scrapes the Internet Archive and other resources and reassembled the websites by hand as thoroughly as possible. You will not find every website on Protoweb, but they ones that you do find will be of the best archived version out there. 
+
 ---
 
 ### [Retrocampus BBS](http://bbs.retrocampus.com/)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/retrocampus.jpg)](http://bbs.retrocampus.com/)
+
+This BBS has it all, games, chat, modern information from current web sites. Best of all it has compatibility for over a dozen systems!
 
 ---
 
 ### [68k.news](http://68k.news/)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/68knews.jpg)](http://68k.news/)
 
+This is a proxy to google news which returns text and images but none of the incompatible stuff that old browsers wouldn't like. 
+
 ---
 
 ### [Frog Find](http://frogfind.com/)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/frogfind.jpg)](http://frogfind.com/)
 
+Frog Find is a great service which acts as a proxy to Duck Duck Go. It returns text parsed out of webpages to ensure compatibility on even the most limited of browsers. 
+
 ---
 
 ### [WRP (Web Rendering Proxy)](https://github.com/tenox7/wrp)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/wrp.png)](https://github.com/tenox7/wrp)
+
+This is a very clever and cool service. It lets you browse the modern internet on vintage computers. This is generally impossible because most websites are partially/fully rendered using client side javascript. Old browsers cannot handle this. WRP pre-renders the webpages in a headless chrome instance and then returns a screenshot of the webpage as an image map to the vintage computer. Very neat way of working through the problem .
 
 ---
 
@@ -85,10 +95,14 @@ I am building supplimentary information on the **[WIKI](https://github.com/sssha
 ### [MicroWeb](https://github.com/jhhoward/MicroWeb)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/microweb.png)](https://github.com/jhhoward/MicroWeb)
 
+This is a CGA based DOS web browser which is currently in development, it's pretty cool!
+
 ---
 
 ### [DreamPi](https://segaretro.org/DreamPi)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/dreampi.jpg)](https://segaretro.org/DreamPi)
+
+If you have a SEGA Dreamcast and whish to play Phantasy Star Online again you can with this project! It turns a raspberry pi into a dial-up networking ISP. It lets you connect to other players over the internet through custom hosted game servers!
 
 ---
 
