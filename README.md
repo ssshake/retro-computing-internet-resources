@@ -3,7 +3,7 @@
 The goal is to compile a comprehensive list of all projects to get vintage computers connected to the internet!
 
 
-- [The Old Net - Portal](http://theoldnet.com)
+- [TheOldNet.com](http://theoldnet.com)
 - [The Old Net - HTTP Proxy](http://theoldnet.com/docs/httpproxy/index.html)
 - [The Old Net - BBS](http://theoldnet.com/bbs.html)
 - [The Old Net Navigator](http://theoldnet.com/browser/)
