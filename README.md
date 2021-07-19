@@ -10,3 +10,6 @@ A list of the various projects to get vintage computers connected to the interne
 - retro-proxy
 - classilla/cryanc
 - microweb
+- dreampi
+- kali
+- 
