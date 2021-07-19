@@ -1,5 +1,6 @@
-# retro-computing-internet-resources
-A list of the various projects to get vintage computers connected to the internet
+# Retro Computing Internet Resources
+
+The goal is to compile a comprehensive list of all projects to get vintage computers connected to the internet!
 
 
 - [The Old Net - Portal](http://theoldnet.com)
