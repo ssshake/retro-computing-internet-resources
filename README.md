@@ -29,7 +29,7 @@ The goal is to compile a comprehensive list of all projects to get vintage compu
 
 
 #### [TheOldNet.com](http://theoldnet.com)
-![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/theoldnet.jpg)
+[![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/theoldnet.jpg)](http://theoldnet.com)
 
 #### [The Old Net - HTTP Proxy](http://theoldnet.com/docs/httpproxy/index.html)
 #### [The Old Net - BBS](http://theoldnet.com/bbs.html)
