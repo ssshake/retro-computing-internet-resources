@@ -6,7 +6,7 @@ The goal is to compile a comprehensive list of all projects which let vintage co
 
 If you have a project you would like added to the list please say so on the **[Discussion Page](https://github.com/ssshake/retro-computing-internet-resources/discussions)** or submit a **[PR](https://github.com/ssshake/retro-computing-internet-resources/pulls)**!
 
-I am building supplimentary information on the **[WIKI](https://github.com/ssshake/retro-computing-internet-resources/wiki)**.
+Supplimentary information is available on the **[WIKI](https://github.com/ssshake/retro-computing-internet-resources/wiki)**.
 
 # Links
 
