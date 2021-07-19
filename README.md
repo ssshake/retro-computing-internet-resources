@@ -2,7 +2,10 @@
 A list of the various projects to get vintage computers connected to the internet
 
 
-- [The Old Net](http://theoldnet.com)
+- [The Old Net - Portal](http://theoldnet.com)
+- [The Old Net - HTTP Proxy](http://theoldnet.com/docs/httpproxy/index.html)
+- [The Old Net - BBS](http://theoldnet.com/bbs.html)
+- [The Old Net Navigator](http://theoldnet.com/browser/)
 - [Protoweb](https://protoweb.org/)
 - [Retrocampus BBS](http://bbs.retrocampus.com/)
 - [68k.news](http://68k.news/)
@@ -17,4 +20,5 @@ A list of the various projects to get vintage computers connected to the interne
 - [Brow.sh](https://www.brow.sh/)
 - [Browservice](https://github.com/ttalvitie/browservice)
 - [Timeproxy](https://github.com/remino/timeprox)
+- [JWZ's http10proxy](https://www.jwz.org/hacks/http10proxy.pl)
 - 
