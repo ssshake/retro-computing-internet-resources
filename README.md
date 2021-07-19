@@ -25,6 +25,7 @@ If you have a project you would like added to the list please say so on the **Di
 - [JWZ's http10proxy](https://www.jwz.org/hacks/http10proxy.pl)
 - [Cameron's World](https://www.cameronsworld.net/)
 - [Telnet BBS Guide](http://www.telnetbbsguide.com/bbs/list/brief/)
+- [Doge Microsystems DIY Dialup Server](https://dogemicrosystems.ca/wiki/Dial_up_server)
 
 
 
