@@ -157,3 +157,6 @@ If you've got a wifi modem or just a telnet client, this is the go-to directory 
 ### [Classilla/Cryanc](https://github.com/classilla/cryanc)
 
 ---
+
+
+[Maintained by: Richard Bettridge](https://richardbettridge.com)
