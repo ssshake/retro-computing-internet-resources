@@ -8,9 +8,13 @@ A list of the various projects to get vintage computers connected to the interne
 - [68k.news](http://68k.news/)
 - [Frog Find](http://frogfind.com/)
 - [WEP (Web Rendering Proxy)](https://github.com/tenox7/wrp)
-- retro-proxy
-- classilla/cryanc
-- microweb
-- dreampi
-- kali
+- [Retro-Proxy](https://github.com/DrKylstein/retro-proxy)
+- [Classilla/Cryanc](https://github.com/classilla/cryanc)
+- [MicroWeb](https://github.com/jhhoward/MicroWeb)
+- [DreamPi](https://segaretro.org/DreamPi)
+- [Kali](https://www.kali.net/)
+- [WebOne](https://github.com/atauenis/webone)
+- [Brow.sh](https://www.brow.sh/)
+- [Browservice](https://github.com/ttalvitie/browservice)
+- [Timeproxy](https://github.com/remino/timeprox)
 - 
