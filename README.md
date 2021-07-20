@@ -126,6 +126,8 @@ This is the most impressive service I've seen. A fluid, full graphics browser ov
 ### [Browservice](https://github.com/ttalvitie/browservice)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/browservice.png)](https://github.com/ttalvitie/browservice)
 
+This is pre-rendered proxy similar to WRP. It provides a smoother experience at the expense of compatibility as it requires a minimum javascript version to work. 
+
 ---
 
 ### [Timeprox](https://github.com/remino/timeprox)
@@ -173,6 +175,8 @@ In the beloved hay day of VRML cybertown was an absolute wonder. It was an onlin
 ---
 
 ### [Netscape Proxy](https://github.com/ericmackrodt/netscape-proxy)
+
+This is pre-rendered proxy similar to Browservice. It was created by The Eric Experiment to address a lack of Netscape support by Browservice. This proxy is not as mature as Browservice or Web Renderer Proxy as it is relatively new. 
 
 ---
 
