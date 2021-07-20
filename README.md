@@ -160,7 +160,7 @@ In the beloved hay day of VRML cybertown was an absolute wonder. It was an onlin
 ### [Telnet BBS Guide](http://www.telnetbbsguide.com/bbs/list/brief/)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/telnetbbsguide.jpg)](http://www.telnetbbsguide.com/bbs/list/brief/)
 
-If you've got a wifi modem or just a telnet client, this is the go-to directory of all BBS's currently operating. 
+If you've got a [wifi modem](https://www.tindie.com/products/theoldnet/rs232-serial-wifi-modem-for-vintage-computers-v3/) or just a telnet client, this is the go-to directory of all BBS's currently operating. 
 
 ---
 
