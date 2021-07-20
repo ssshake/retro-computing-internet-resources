@@ -33,7 +33,7 @@ Supplimentary information is available on the **[WIKI](https://github.com/ssshak
 - [Telnet BBS Guide](http://www.telnetbbsguide.com/bbs/list/brief/)
 - [Doge Microsystems DIY Dialup Server](https://dogemicrosystems.ca/wiki/Dial_up_server)
 - [CyberTown Reloaded](https://www.cybertown.nz/)
-- [Classilla/Cryanc](https://github.com/classilla/cryanc)
+- [Crypto Ancienne](https://github.com/classilla/cryanc)
 
 
 
@@ -90,6 +90,25 @@ This is a very clever and cool service. It lets you browse the modern internet o
 
 ---
 
+### [Browservice](https://github.com/ttalvitie/browservice)
+[![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/browservice.png)](https://github.com/ttalvitie/browservice)
+
+This is pre-rendered proxy similar to WRP. It provides a smoother experience at the expense of compatibility as it requires a minimum javascript version to work. 
+
+---
+
+### [Retro-Proxy](https://github.com/DrKylstein/retro-proxy)
+
+A self-hosted HTTP proxy that removes ssl and javascript.
+
+---
+
+### [Netscape Proxy](https://github.com/ericmackrodt/netscape-proxy)
+
+This is pre-rendered proxy similar to Browservice. It was created by The Eric Experiment to address a lack of Netscape support by Browservice. This proxy is not as mature as Browservice or Web Renderer Proxy as it is relatively new. 
+
+---
+
 ### [MicroWeb](https://github.com/jhhoward/MicroWeb)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/microweb.png)](https://github.com/jhhoward/MicroWeb)
 
@@ -120,13 +139,6 @@ Kali was a program used back in the windows 95 era to do local/IPX gaming over t
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/browsh.jpg)](https://www.brow.sh/)
 
 This is the most impressive service I've seen. A fluid, full graphics browser over SSH! You can even watch youtube videos in real time, in a pixelated fasion. Very neat.
-
----
-
-### [Browservice](https://github.com/ttalvitie/browservice)
-[![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/browservice.png)](https://github.com/ttalvitie/browservice)
-
-This is pre-rendered proxy similar to WRP. It provides a smoother experience at the expense of compatibility as it requires a minimum javascript version to work. 
 
 ---
 
@@ -166,21 +178,9 @@ In the beloved hay day of VRML cybertown was an absolute wonder. It was an onlin
 
 ---
 
-### [Retro-Proxy](https://github.com/DrKylstein/retro-proxy)
-
-A self-hosted HTTP proxy that removes ssl and javascript.
-
----
-
 ### [Crypto Ancienne](https://github.com/classilla/cryanc)
 
 A TLS library for old C compilers.
-
----
-
-### [Netscape Proxy](https://github.com/ericmackrodt/netscape-proxy)
-
-This is pre-rendered proxy similar to Browservice. It was created by The Eric Experiment to address a lack of Netscape support by Browservice. This proxy is not as mature as Browservice or Web Renderer Proxy as it is relatively new. 
 
 ---
 
