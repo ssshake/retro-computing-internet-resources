@@ -26,7 +26,7 @@ Supplimentary information is available on the **[WIKI](https://github.com/ssshak
 - [Timeprox](https://github.com/remino/timeprox)
 - [JWZ's http10proxy](https://www.jwz.org/hacks/http10proxy.pl)
 - [DreamPi](https://segaretro.org/DreamPi)
-- [Kali](https://www.kali.net/)
+- [Kali](http://www.kali.net/)
 - [Brow.sh](https://www.brow.sh/) 
 - [CyberTown Reloaded](https://www.cybertown.nz/)
 - [Telnet BBS Guide](http://www.telnetbbsguide.com/bbs/list/brief/)
@@ -135,8 +135,8 @@ If you have a SEGA Dreamcast and wish to play Phantasy Star Online again you can
 
 ---
 
-### [Kali](https://www.kali.net/)
-[![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/kali.jpg)](https://www.kali.net/)
+### [Kali](http://www.kali.net/)
+[![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/kali.jpg)](http://www.kali.net/)
 
 Kali was a program used back in the windows 95 era to do local/IPX gaming over the internet. It's a game lobby client/server and a proxy. It's quite impressive and it's still in operation today! This service was important as games transitioned from local/dialup multiplayer to TCP/IP internet multiplayer. Many popular games at the time could not play head to head directly over the internet. This proxy allowed these games to connect over the internet, which was quite amazing. 
 
