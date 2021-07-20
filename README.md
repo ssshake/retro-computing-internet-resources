@@ -21,11 +21,11 @@ Supplimentary information is available on the **[WIKI](https://github.com/ssshak
 - [WRP (Web Rendering Proxy)](https://github.com/tenox7/wrp)
 - [Browservice](https://github.com/ttalvitie/browservice)
 - [Retro-Proxy](https://github.com/DrKylstein/retro-proxy)
-- [Netscape Proxy](https://github.com/ericmackrodt/netscape-proxy) 
+- [Netscape Proxy](https://github.com/ericmackrodt/netscape-proxy)
+- [WebOne](https://github.com/atauenis/webone)
 - [MicroWeb](https://github.com/jhhoward/MicroWeb)
 - [DreamPi](https://segaretro.org/DreamPi)
 - [Kali](https://www.kali.net/)
-- [WebOne](https://github.com/atauenis/webone)
 - [Brow.sh](https://www.brow.sh/) 
 - [Timeprox](https://github.com/remino/timeprox)
 - [JWZ's http10proxy](https://www.jwz.org/hacks/http10proxy.pl)
@@ -116,6 +116,11 @@ This is a CGA based DOS web browser which is currently in development, it's pret
 
 ---
 
+### [WebOne](https://github.com/atauenis/webone)
+[![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/webone.png)](https://github.com/atauenis/webone)
+
+---
+
 ### [DreamPi](https://segaretro.org/DreamPi)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/dreampi.jpg)](https://segaretro.org/DreamPi)
 
@@ -127,11 +132,6 @@ If you have a SEGA Dreamcast and wish to play Phantasy Star Online again you can
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/kali.jpg)](https://www.kali.net/)
 
 Kali was a program used back in the windows 95 era to do local/IPX gaming over the internet. It's a game lobby client/server and a proxy. It's quite impressive and it's still in operation today! This service was important as games transitioned from local/dialup multiplayer to TCP/IP internet multiplayer. Many popular games at the time could not play head to head directly over the internet. This proxy allowed these games to connect over the internet, which was quite amazing. 
-
----
-
-### [WebOne](https://github.com/atauenis/webone)
-[![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/webone.png)](https://github.com/atauenis/webone)
 
 ---
 
