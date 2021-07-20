@@ -109,15 +109,15 @@ This is pre-rendered proxy similar to Browservice. It was created by The Eric Ex
 
 ---
 
+### [WebOne](https://github.com/atauenis/webone)
+[![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/webone.png)](https://github.com/atauenis/webone)
+
+---
+
 ### [MicroWeb](https://github.com/jhhoward/MicroWeb)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/microweb.png)](https://github.com/jhhoward/MicroWeb)
 
 This is a CGA based DOS web browser which is currently in development, it's pretty cool!
-
----
-
-### [WebOne](https://github.com/atauenis/webone)
-[![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/webone.png)](https://github.com/atauenis/webone)
 
 ---
 
