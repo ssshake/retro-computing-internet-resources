@@ -112,14 +112,19 @@ This is pre-rendered proxy similar to Browservice. It was created by The Eric Ex
 ### [WebOne](https://github.com/atauenis/webone)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/webone.png)](https://github.com/atauenis/webone)
 
-A Node.js HTTP proxy to the Wayback Machine for retro browsers. 
+---
+
+### [Timeprox](https://github.com/remino/timeprox)
+[![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/timeprox.png)](https://github.com/remino/timeprox)
+
+A Node.js HTTP proxy to the Wayback Machine for retro browsers.
 
 ---
 
-### [MicroWeb](https://github.com/jhhoward/MicroWeb)
-[![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/microweb.png)](https://github.com/jhhoward/MicroWeb)
+### [JWZ's http10proxy](https://www.jwz.org/hacks/http10proxy.pl)
+[![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/http10proxy.jpg)](https://www.jwz.org/hacks/http10proxy.pl)
 
-This is a CGA based DOS web browser which is currently in development, it's pretty cool!
+It turns out the programmer for the original Netscape browser, Jamie Zawinski, also likes vintage computers. He wrote a proxy many years ago in PERL!
 
 ---
 
@@ -144,15 +149,18 @@ This is the most impressive service I've seen. A fluid, full graphics browser ov
 
 ---
 
-### [Timeprox](https://github.com/remino/timeprox)
-[![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/timeprox.png)](https://github.com/remino/timeprox)
+### [CyberTown Reloaded](https://www.cybertown.nz/)
+
+[![](https://raw.githubusercontent.com/ssshake/retro-computing-internet-resources/main/screenshots/cybertown.jpg)](https://www.cybertown.nz/)
+
+In the beloved hay day of VRML cybertown was an absolute wonder. It was an online community where you lived, socialized, worked, decorated your house, threw parties, went to the theatre! All in glorious 3D in your browser. There were different neighbourhoods based on different interestes. It kind of felt a little like Geocities in that regard. This project is an attempt to rebuild Cybertown using archived resources found scoured across the internet. 
 
 ---
 
-### [JWZ's http10proxy](https://www.jwz.org/hacks/http10proxy.pl)
-[![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/http10proxy.jpg)](https://www.jwz.org/hacks/http10proxy.pl)
+### [Telnet BBS Guide](http://www.telnetbbsguide.com/bbs/list/brief/)
+[![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/telnetbbsguide.jpg)](http://www.telnetbbsguide.com/bbs/list/brief/)
 
-It turns out the programmer for the original Netscape browser, Jamie Zawinski, also likes vintage computers. He wrote a proxy many years ago in PERL!
+If you've got a wifi modem or just a telnet client, this is the go-to directory of all BBS's currently operating. 
 
 ---
 
@@ -165,18 +173,10 @@ Cameron's World will not work on vintage computers so it shouldn't be on this li
 
 ---
 
-### [Telnet BBS Guide](http://www.telnetbbsguide.com/bbs/list/brief/)
-[![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/telnetbbsguide.jpg)](http://www.telnetbbsguide.com/bbs/list/brief/)
+### [MicroWeb](https://github.com/jhhoward/MicroWeb)
+[![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/microweb.png)](https://github.com/jhhoward/MicroWeb)
 
-If you've got a wifi modem or just a telnet client, this is the go-to directory of all BBS's currently operating. 
-
----
-
-### [CyberTown Reloaded](https://www.cybertown.nz/)
-
-[![](https://raw.githubusercontent.com/ssshake/retro-computing-internet-resources/main/screenshots/cybertown.jpg)](https://www.cybertown.nz/)
-
-In the beloved hay day of VRML cybertown was an absolute wonder. It was an online community where you lived, socialized, worked, decorated your house, threw parties, went to the theatre! All in glorious 3D in your browser. There were different neighbourhoods based on different interestes. It kind of felt a little like Geocities in that regard. This project is an attempt to rebuild Cybertown using archived resources found scoured across the internet. 
+This is a CGA based DOS web browser which is currently in development, it's pretty cool!
 
 ---
 
