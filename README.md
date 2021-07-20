@@ -164,6 +164,12 @@ If you've got a wifi modem or just a telnet client, this is the go-to directory 
 
 ---
 
+### [Doge Microsystems DIY Dialup Server](https://dogemicrosystems.ca/wiki/Dial_up_server)
+
+Make your own phone network and ISP at home!
+
+---
+
 ### [Cameron's World](https://www.cameronsworld.net/)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/cameronsworld.jpg)](https://www.cameronsworld.net/)
 
