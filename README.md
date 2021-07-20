@@ -168,9 +168,13 @@ In the beloved hay day of VRML cybertown was an absolute wonder. It was an onlin
 
 ### [Retro-Proxy](https://github.com/DrKylstein/retro-proxy)
 
+A self-hosted HTTP proxy that removes ssl and javascript.
+
 ---
 
-### [Classilla/Cryanc](https://github.com/classilla/cryanc)
+### [Crypto Ancienne](https://github.com/classilla/cryanc)
+
+A TLS library for old C compilers.
 
 ---
 
