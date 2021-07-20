@@ -112,6 +112,8 @@ This is pre-rendered proxy similar to Browservice. It was created by The Eric Ex
 ### [WebOne](https://github.com/atauenis/webone)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/webone.png)](https://github.com/atauenis/webone)
 
+A Node.js HTTP proxy to the Wayback Machine for retro browsers. 
+
 ---
 
 ### [MicroWeb](https://github.com/jhhoward/MicroWeb)
