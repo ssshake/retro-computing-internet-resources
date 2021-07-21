@@ -40,7 +40,7 @@ Supplimentary information is available on the **[WIKI](https://github.com/ssshak
 
 
 
-# Project Details
+# Project Screenshots
 
 
 ### [TheOldNet.com](http://theoldnet.com)
