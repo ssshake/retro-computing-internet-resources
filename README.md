@@ -185,7 +185,7 @@ Cameron's World will not work on vintage computers so it shouldn't be on this li
 ### [MicroWeb](https://github.com/jhhoward/MicroWeb)
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/microweb.png)](https://github.com/jhhoward/MicroWeb)
 
-This is a CGA based DOS web browser which is currently in development, it's pretty cool!
+This is a CGA, EGA, VGA and Hercules based DOS web browser which is currently in development, it's pretty cool!
 
 ---
 
