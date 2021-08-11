@@ -169,7 +169,7 @@ If you've got a [wifi modem](https://www.tindie.com/products/theoldnet/rs232-ser
 ### [Doge Microsystems DIY Dialup Server](https://dogemicrosystems.ca/wiki/Dial_up_server)
 [![](https://dogemicrosystems.ca/mywiki/images/3/3c/DIY_dial_up_ISP.jpg)](https://dogemicrosystems.ca/wiki/Dial_up_server)
 
-Make your own telephone network and ISP at home!
+Make your own telephone network and ISP at home! I run this myself and I think it's the coolest project. It scales up pretty cheaply which means all of your vintage computers can have their own phone line.
 
 ---
 
