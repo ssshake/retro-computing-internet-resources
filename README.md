@@ -155,7 +155,7 @@ This is the most impressive service I've seen. A fluid, full graphics browser ov
 
 [![](https://raw.githubusercontent.com/ssshake/retro-computing-internet-resources/main/screenshots/cybertown.jpg)](https://www.cybertown.nz/)
 
-In the beloved hay day of VRML cybertown was an absolute wonder. It was an online community where you lived, socialized, worked, decorated your house, threw parties, went to the theatre! All in glorious 3D in your browser. There were different neighbourhoods based on different interestes. It kind of felt a little like Geocities in that regard. This project is an attempt to rebuild Cybertown using archived resources found scoured across the internet. 
+In the beloved hay day of VRML cybertown was an absolute wonder. It was an online community where you lived, socialized, worked, decorated your house, threw parties, went to the theatre! All in glorious 3D in your browser. There were different neighbourhoods based on different interests. It kind of felt a little like Geocities in that regard. This project is an attempt to rebuild Cybertown using archived resources found scoured across the internet. 
 
 ---
 
