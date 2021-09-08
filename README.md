@@ -36,6 +36,7 @@ Supplimentary information is available on the **[WIKI](https://github.com/ssshak
 - [Crypto Ancienne](https://github.com/classilla/cryanc)
 - [OldWeb Today](https://oldweb.today/)
 - [LoBand.org](http://www.loband.org/loband/)
+- [YouTube Parser for Slow Computers](https://github.com/Wa59/ytpfsc)
 
 
 
