@@ -211,4 +211,10 @@ Launch old web browsers, from modern browsers, in a VM, using this free service!
 
 ---
 
+### [Old'a Vista](https://oldavista.com/)
+
+[![](https://raw.githubusercontent.com/ssshake/retro-computing-internet-resources/main/screenshots/oldavista.jpg)](https://oldavista.com/)
+
+---
+
 This list is maintained by [Richard Bettridge](https://richardbettridge.com)
