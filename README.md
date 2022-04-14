@@ -39,6 +39,7 @@ Supplimentary information is available on the **[WIKI](https://github.com/ssshak
 - [YouTube Parser for Slow Computers](https://github.com/Wa59/ytpfsc)
 - [Old'a Vista](https://oldavista.com/)
 - [Vista Serv](http://vistaserv.net)
+- [NINA](https://nina.chat/)
 
 
 
