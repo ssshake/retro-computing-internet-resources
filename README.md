@@ -28,7 +28,7 @@ Supplimentary information is available on the **[WIKI](https://github.com/ssshak
 - [DreamPi](https://segaretro.org/DreamPi)
 - [Kali](http://www.kali.net/)
 - [Brow.sh](https://www.brow.sh/) 
-- [CyberTown Reloaded](https://www.cybertown.nz/)
+- [CyberTown Revival](https://www.cybertownrevival.com/#/)
 - [Telnet BBS Guide](http://www.telnetbbsguide.com/bbs/list/brief/)
 - [Doge Microsystems DIY Dialup Server](https://dogemicrosystems.ca/wiki/Dial_up_server)
 - [Cameron's World](https://www.cameronsworld.net/)
@@ -155,9 +155,9 @@ This is the most impressive service I've seen. A fluid, full graphics browser ov
 
 ---
 
-### [CyberTown Reloaded](https://www.cybertown.nz/)
+### [CyberTown Revival](https://www.cybertownrevival.com/)
 
-[![](https://raw.githubusercontent.com/ssshake/retro-computing-internet-resources/main/screenshots/cybertown.jpg)](https://www.cybertown.nz/)
+[![](https://raw.githubusercontent.com/ssshake/retro-computing-internet-resources/main/screenshots/cybertown.jpg)](https://www.cybertownrevival.com/)
 
 In the beloved hay day of VRML cybertown was an absolute wonder. It was an online community where you lived, socialized, worked, decorated your house, threw parties, went to the theatre! All in glorious 3D in your browser. There were different neighbourhoods based on different interests. It kind of felt a little like Geocities in that regard. This project is an attempt to rebuild Cybertown using archived resources found scoured across the internet. 
 
