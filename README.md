@@ -91,8 +91,9 @@ Frog Find is a great service which acts as a proxy to Duck Duck Go. It returns t
 ---
 
 ### [Wiby](http://wiby.org)
+[![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/wiby.png)](http://wiby.org/)
 
-Wiby is a search engine with the stated goal of "building a web of pages as it was in the earlier days of the internet". It has a large index of lightweight contributed pages, a random "surprise me..." feature, and an HTTP-only filter. Plus, it's hosted on Optiplexes!
+Wiby is a search engine with the stated goal of "building a web of pages as it was in the earlier days of the internet". It has a large index of lightweight contributed pages, a random "surprise me..." feature, and an HTTP-only filter. It's also hosted on a fleet of Optiplexes, and home to a [no-script chatroom](http://wiby.me/chat/).
 
 ---
 
