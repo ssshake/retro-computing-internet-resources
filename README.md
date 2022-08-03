@@ -18,6 +18,7 @@ Supplimentary information is available on the **[WIKI](https://github.com/ssshak
 - [Retrocampus BBS](http://bbs.retrocampus.com/)
 - [68k.news](http://68k.news/)
 - [Frog Find](http://frogfind.com/)
+- [Wiby](http://wiby.org)
 - [WRP (Web Rendering Proxy)](https://github.com/tenox7/wrp)
 - [Browservice](https://github.com/ttalvitie/browservice)
 - [Retro-Proxy](https://github.com/DrKylstein/retro-proxy)
@@ -86,6 +87,13 @@ This is a proxy to google news which returns text and images but none of the inc
 [![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/frogfind.jpg)](http://frogfind.com/)
 
 Frog Find is a great service which acts as a proxy to Duck Duck Go. It returns text parsed out of webpages to ensure compatibility on even the most limited of browsers. 
+
+---
+
+### [Wiby](http://wiby.org)
+[![](https://github.com/ssshake/retro-computing-internet-resources/raw/main/screenshots/wiby.png)](http://wiby.org/)
+
+Wiby is a search engine with the stated goal of "building a web of pages as it was in the earlier days of the internet". It has a large index of lightweight contributed pages, a random "surprise me..." feature, and an HTTP-only filter. It's also hosted on a fleet of Optiplexes, and home to a [no-script chatroom](http://wiby.me/chat/).
 
 ---
 
