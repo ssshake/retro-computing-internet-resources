@@ -24,10 +24,8 @@ Supplimentary information is available on the **[WIKI](https://github.com/ssshak
 - [Retro-Proxy](https://github.com/DrKylstein/retro-proxy)
 - [Netscape Proxy](https://github.com/ericmackrodt/netscape-proxy)
 - [WebOne](https://github.com/atauenis/webone)
-- [Timeprox](https://github.com/remino/timeprox)![image](https://user-images.githubusercontent.com/124108470/221381723-56f4f69c-51f3-4683-bdec-29cb9db0560d.png)
-
-- [JWZ's http10proxy](https://www.jwz.org/hacks/http10proxy.pl)![image](https://user-images.githubusercontent.com/124108470/221381756-44c05011-fad7-4931-9d40-f6865bd425fc.png)
-
+- [Timeprox](https://github.com/remino/timeprox)
+- [JWZ's http10proxy](https://www.jwz.org/hacks/http10proxy.pl)
 - [DreamPi](https://segaretro.org/DreamPi)
 - [Kali](http://www.kali.net/)
 - [Brow.sh](https://www.brow.sh/) 
