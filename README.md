@@ -42,6 +42,8 @@ Supplimentary information is available on the **[WIKI](https://github.com/ssshak
 - [Vista Serv](http://vistaserv.net)
 - [NINA](https://nina.chat/)
 - [ucanet](http://ucanet.net/)
+- [MacProxy](https://github.com/rdmark/macproxy)
+- [NetTalk](https://github.com/rdmark/netatalk-2.x)
 
 
 
