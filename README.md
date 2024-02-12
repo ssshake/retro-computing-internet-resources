@@ -39,7 +39,6 @@ Supplimentary information is available on the **[WIKI](https://github.com/ssshak
 - [LoBand.org](http://www.loband.org/loband/)
 - [YouTube Parser for Slow Computers](https://github.com/Wa59/ytpfsc)
 - [Old'a Vista](https://oldavista.com/)
-- [Vista Serv](http://vistaserv.net)
 - [NINA](https://nina.chat/)
 - [ucanet](http://ucanet.net/)
 - [MacProxy](https://github.com/rdmark/macproxy)
@@ -227,12 +226,6 @@ Launch old web browsers, from modern browsers, in a VM, using this free service!
 ### [Old'a Vista](https://oldavista.com/)
 
 [![](https://raw.githubusercontent.com/ssshake/retro-computing-internet-resources/main/screenshots/oldavista.jpg)](https://oldavista.com/)
-
----
-
-### [Vista Serv](http://vistaserv.net)
-
-This is an awesome webpage hosting service that is true to the 90's!
 
 ---
 
