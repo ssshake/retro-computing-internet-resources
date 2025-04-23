@@ -43,7 +43,7 @@ Supplimentary information is available on the **[WIKI](https://github.com/ssshak
 - [ucanet](http://ucanet.net/)
 - [MacProxy](https://github.com/rdmark/macproxy)
 - [NetTalk](https://github.com/rdmark/netatalk-2.x)
-
+- [Byte5's ICQ Server](https://icq.byte5.com.br/)
 
 
 
