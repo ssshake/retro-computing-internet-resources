@@ -36,7 +36,6 @@ Supplimentary information is available on the **[WIKI](https://github.com/ssshak
 - [MicroWeb](https://github.com/jhhoward/MicroWeb)
 - [Crypto Ancienne](https://github.com/classilla/cryanc)
 - [OldWeb Today](https://oldweb.today/)
-- [LoBand.org](http://www.loband.org/loband/)
 - [YouTube Parser for Slow Computers](https://github.com/Wa59/ytpfsc)
 - [Old'a Vista](https://oldavista.com/)
 - [Vista Serv](http://vistaserv.net)
@@ -215,12 +214,6 @@ A TLS library for old C compilers.
 [![](https://raw.githubusercontent.com/ssshake/retro-computing-internet-resources/main/screenshots/oldwebtoday.jpg)](https://oldweb.today)
 
 Launch old web browsers, from modern browsers, in a VM, using this free service!
-
----
-
-### [LoBand.org](http://www.loband.org/loband/)
-
-[![](https://raw.githubusercontent.com/ssshake/retro-computing-internet-resources/main/screenshots/loband.jpg)](http://www.loband.org/loband/)
 
 ---
 
